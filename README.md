@@ -4,7 +4,7 @@
 const me = {
   name: "Eliseo",
   role: "Software Developer",
-  languages: ["de_DE", "en_US", "JavaScript", "PHP"],
+  languages: ["de_DE", "en_US", "TypeScript", "PHP"],
   sayHi: "Thanks for dropping by!👋🏼"
 }
 ```
